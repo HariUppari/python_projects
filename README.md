@@ -2,7 +2,7 @@ Introduction
 
 This project focuses on web scraping using Python to gather and analyze data from online sources. It demonstrates key Python techniques and libraries for web scraping, including:
 
-- BeautifulSou to parse HTML and extract meaningful data from web pages.
+- BeautifulSoup to parse HTML and extract meaningful data from web pages.
 - Requests for making HTTP requests and retrieving the content of web pages.
 - Pandas** for organizing and analyzing the scraped data.
 - Data Cleaning techniques to prepare raw data for analysis, such as handling missing values and formatting.
